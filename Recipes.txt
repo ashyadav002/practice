@@ -5,3 +5,6 @@ Welcome to GIT Practice
 
 Practice
 Pasta
+
+Pizza
+Chicken Fry

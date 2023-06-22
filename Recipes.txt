@@ -1,12 +1,1 @@
 
-
-
-Welcome to GIT Practice
-
-Practice
-Pasta
-
-Pizza
-Chicken Fry
-working parallelly to continue in sub branch and then will see how to merge
-the changes in main branch
